@@ -47,4 +47,4 @@ Login/
 
 ---
 
-> Feito com por [PedroThiago02](https://github.com/PedroThiago02)
+> Feito por [PedroThiago02](https://github.com/PedroThiago02)
