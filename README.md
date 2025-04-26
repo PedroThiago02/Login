@@ -9,11 +9,6 @@
 Uma simples tela de login desenvolvida com **HTML**, **CSS** e **JavaScript**.  
 Ideal para estudos e como base para projetos que precisam de um sistema de autenticação simples.
 
-## 📸 Demonstração
-
-![Login Page Screenshot](https://user-images.githubusercontent.com/your-image-path.png)  
-> *Substitua o link acima pelo caminho da imagem da sua tela de login!*
-
 ## 🖥️ Tecnologias
 
 - HTML5
